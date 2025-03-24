@@ -1,4 +1,4 @@
-package com.ecommerce.SpringECommerce;
+package com.ecommerce.SpringECommerce.model;
 
 public class Student {
     private int id;

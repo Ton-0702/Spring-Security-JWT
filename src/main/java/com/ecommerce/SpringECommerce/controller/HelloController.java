@@ -1,4 +1,4 @@
-package com.ecommerce.SpringECommerce;
+package com.ecommerce.SpringECommerce.controller;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.GetMapping;
